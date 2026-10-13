@@ -1,0 +1,13 @@
+Informe Tecnico de Auditorio Rack R01
+
+1. Resumen
+Levantamiento fisico, logico y eléctrico del gabinete de telecomunicaciones de 18 Unidades.
+
+2. Metricas
+- Capacidad Total: 18U
+- Ocupacion: 5U (28%)
+- Disponibilidad: 13U (72%)
+
+3. Normativa
+- ANSI/TIA-606-C
+- ANSI/TIA-568-D
