@@ -8,4 +8,4 @@ Sistema de gestion e inventario para gabinetes de telecomunicaciones.
 - index.html: Panel de control visual.
 
 ## Repositorio Oficial
-https://github.com/DylanCastilloR/proyecto-cableado-estructurado
+file:///C:/Users/dylan/Downloads/gemini-code-1790919135333.html
