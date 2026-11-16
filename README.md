@@ -8,8 +8,7 @@ Sistema de gestion e inventario para gabinetes de telecomunicaciones.
 - index.html: Panel de control visual.
 
 ## Repositorio Oficial
-[Descargar proyecto (.zip)]([proyecto-cableadoestructurado-main.zip](https://github.com/user-attachments/files/34923690/proyecto-cableadoestructurado-main.zip)
-)
+[Descargar proyecto (.zip)](https://github.com/user-attachments/files/34923690/proyecto-cableadoestructurado-main.zip)
 # RackScope - Gestión de Cableado Estructurado e Inventario de Racks (v2.0.0 SEC-AI)
 
 Aplicación web para el control, auditoría física y administración de gabinetes de telecomunicaciones bajo los estándares **ANSI/TIA-606** y **ANSI/TIA-568**, actualizada con controles de ciberseguridad e Inteligencia Artificial.
